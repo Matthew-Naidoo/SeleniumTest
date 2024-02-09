@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class SeleniumExample {
 
     public static void main(String[] args) {
-        //Matthew Naidoo
         // Set the path to the ChromeDriver executable
         //System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
 
